@@ -1,9 +1,5 @@
-
-
-
 function PokemonCard ({pokemon}){
-  
-return(
+  return(
     <figure>
       { pokemon.imgSrc ?
         (<img src={pokemon.imgSrc} alt={pokemon.name} />) :(<p> ???</p> )
