@@ -1,3 +1,4 @@
+
 interface PokemonCardProps {
   pokemon :{
     imgSrc?: string;
