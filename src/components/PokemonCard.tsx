@@ -1,3 +1,4 @@
+
 interface PokemonProps {
 	pokemon: {
 		imgSrc?: string; // optionnal
@@ -19,4 +20,4 @@ function PokemonCard ({pokemon}:PokemonProps ){
   }
   
   
-  export default PokemonCard;
+ 

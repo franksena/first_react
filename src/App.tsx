@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import "./App.css";
 import PokemonCard from "./components/PokemonCard";
@@ -48,6 +49,7 @@ const handleClickPrevious = () => {
           </div> 
         
   
+
   );
 }
 export default App;
